@@ -3,6 +3,7 @@ import RandomPic from './assets/Reze.png'
 
 
 function Card(){
+        
     return(
         <>
             <div className="card">
