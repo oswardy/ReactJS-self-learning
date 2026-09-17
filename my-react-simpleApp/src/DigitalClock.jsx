@@ -33,7 +33,7 @@ export default function DigitalClock(){
     }
 
     return(
-        <div className='clock-wrapper'>
+        <div className='component-wrapper natural-img'>
             {/* <h3>Digital Clock:</h3> */}
             <div className='clock-container'>
                 <div className='clock'>
